@@ -5,6 +5,6 @@ import { defineConfig } from "vite";
 import { cloudflare } from "@cloudflare/vite-plugin";
 
 export default defineConfig({
-  base: "/personal-portfolioex1/",
+  base: "/foliodev-proof-jordan-rivera-portfolio/",
   plugins: [react(), tailwindcss(), cloudflare()],
 });
