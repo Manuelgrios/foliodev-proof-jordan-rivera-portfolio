@@ -7,11 +7,11 @@ export type EducationItem = {
 
 export const education: EducationItem[] = [
   {
-    "school": "a",
-    "degree": "a in a",
-    "timeline": "Expected 0",
+    "school": "North Valley State University",
+    "degree": "B.S. in Computer Science",
+    "timeline": "Expected 2027",
     "details": [
-      "a"
+      "Bachelor of Science in Computer Science. Relevant coursework includes data structures, databases, software engineering, and human-computer interaction."
     ]
   }
 ];
