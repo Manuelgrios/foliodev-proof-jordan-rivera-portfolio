@@ -63,8 +63,8 @@ export const profile: Profile = {
       "href": "/#contact"
     },
     "image": {
-      "src": "a",
-      "alt": "Headshot of a"
+      "src": "",
+      "alt": ""
     }
   },
   "sections": {
