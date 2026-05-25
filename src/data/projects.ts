@@ -25,8 +25,8 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    "slug": "a",
-    "title": "a",
+    "slug": "aa",
+    "title": "aa",
     "category": "Student builder",
     "summary": "a",
     "description": "a",
