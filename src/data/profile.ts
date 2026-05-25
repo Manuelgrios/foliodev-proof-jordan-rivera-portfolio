@@ -32,28 +32,33 @@ export type Profile = {
 };
 
 export const profile: Profile = {
-  "name": "a",
-  "headline": "a portfolio",
-  "subtitle": "a at a",
-  "school": "a",
+  "name": "Alex Morgan",
+  "headline": "Software Engineer Intern portfolio",
+  "subtitle": "Computer Science at North Valley State University",
+  "school": "North Valley State University",
   "degrees": [
-    "a"
+    "B.S."
   ],
-  "location": "a",
-  "email": "a",
-  "bio": "a is studying a at a and is preparing for a opportunities.",
-  "shortBio": "I am a a student focused on a. I build practical software and data projects that are clear, useful, and easy to explain.",
+  "location": "San Diego, CA",
+  "email": "demo.student@example.com",
+  "bio": "Alex Morgan is studying Computer Science at North Valley State University and is preparing for Software Engineer Intern, Frontend Developer Intern, Data Tools Intern opportunities.",
+  "shortBio": "I am a B.S. student focused on software engineer intern and frontend developer intern. I build practical software and data projects that are clear, useful, and easy to explain.",
   "focusAreas": [
-    "a"
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "React",
+    "HTML"
   ],
   "hero": {
-    "eyebrow": "a at a",
+    "eyebrow": "Computer Science at North Valley State University",
     "headline": [
-      "a",
-      "a"
+      "Software Engineer Intern",
+      "Computer Science"
     ],
-    "highlightedHeadline": "a",
-    "body": "I am a a student focused on a. I build practical software and data projects that are clear, useful, and easy to explain.",
+    "highlightedHeadline": "Computer Science",
+    "body": "I am a B.S. student focused on software engineer intern and frontend developer intern. I build practical software and data projects that are clear, useful, and easy to explain.",
     "primaryCta": {
       "label": "View Projects",
       "href": "/#projects"
@@ -70,36 +75,42 @@ export const profile: Profile = {
   "sections": {
     "about": {
       "eyebrow": "About Me",
-      "heading": "Hi there, my name is a.",
+      "heading": "Hi there, my name is Alex.",
       "body": [
-        "a is studying a at a and is preparing for a opportunities."
+        "Alex Morgan is studying Computer Science at North Valley State University and is preparing for Software Engineer Intern, Frontend Developer Intern, Data Tools Intern opportunities."
       ],
       "infoGroups": [
         {
           "iconKey": "education",
           "label": "Education",
           "lines": [
-            "a in a"
+            "B.S. in Computer Science"
           ]
         },
         {
           "iconKey": "code",
           "label": "Technical Focus",
           "lines": [
-            "a"
+            "Software Engineer Intern",
+            "Frontend Developer Intern"
           ]
         },
         {
           "iconKey": "chart",
           "label": "Project Focus",
           "lines": [
-            "a"
+            "TypeScript",
+            "JavaScript",
+            "Python"
           ]
         }
       ],
       "enjoyHeading": "What I focus on",
       "enjoyItems": [
-        "a"
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "SQL"
       ]
     },
     "projects": {
@@ -118,7 +129,7 @@ export const profile: Profile = {
       "eyebrow": "Contact",
       "heading": "Let's Connect",
       "pageHeading": "Get in touch",
-      "body": "Open to a opportunities."
+      "body": "Open to Software Engineer Intern, Frontend Developer Intern, Data Tools Intern opportunities."
     }
   }
 };
