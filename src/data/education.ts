@@ -10,6 +10,8 @@ export const education: EducationItem[] = [
     "school": "a",
     "degree": "a in a",
     "timeline": "Expected 0",
-    "details": []
+    "details": [
+      "a"
+    ]
   }
 ];
