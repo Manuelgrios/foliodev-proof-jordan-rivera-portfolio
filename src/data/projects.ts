@@ -25,8 +25,8 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    "slug": "aa",
-    "title": "aa",
+    "slug": "a",
+    "title": "a",
     "category": "Student builder",
     "summary": "a",
     "description": "a",
@@ -38,10 +38,6 @@ export const projects: Project[] = [
     "links": [
       {
         "label": "GitHub",
-        "href": "https://a"
-      },
-      {
-        "label": "Live Demo",
         "href": "https://a"
       }
     ],
