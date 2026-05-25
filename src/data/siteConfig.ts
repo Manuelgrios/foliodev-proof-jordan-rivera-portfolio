@@ -1,11 +1,11 @@
 export const siteConfig = {
-  "siteTitle": "a | Student Portfolio",
-  "seoDescription": "a is preparing a FolioDev student portfolio draft.",
+  "siteTitle": "Alex | Student Portfolio",
+  "seoDescription": "Alex is preparing a FolioDev student portfolio draft.",
   "copyrightYear": 2026,
   "brand": {
-    "initials": "A",
-    "name": "a",
-    "logoText": "A"
+    "initials": "AM",
+    "name": "Alex Morgan",
+    "logoText": "AM"
   },
   "theme": {
     "activeTheme": "midnight-blue",
@@ -14,7 +14,7 @@ export const siteConfig = {
   },
   "resume": {
     "label": "Resume",
-    "path": "a",
+    "path": "/demo-assets/demo-student-resume.pdf",
     "download": true
   }
 } as const;
