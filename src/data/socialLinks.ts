@@ -11,32 +11,24 @@ export const socialLinks: SocialLink[] = [
   {
     "key": "email",
     "label": "Email",
-    "value": "a",
-    "href": "mailto:a",
+    "value": "demo.student@example.com",
+    "href": "mailto:demo.student@example.com",
     "iconKey": "mail"
   },
   {
     "key": "linkedin",
     "label": "LinkedIn",
-    "value": "a",
-    "href": "https://a",
+    "value": "www.linkedin.com/in/demo-student-portfolio",
+    "href": "https://www.linkedin.com/in/demo-student-portfolio",
     "iconKey": "linkedin",
     "external": true
   },
   {
     "key": "github",
     "label": "GitHub",
-    "value": "a",
-    "href": "https://a",
+    "value": "github.com/demo-student-portfolio",
+    "href": "https://github.com/demo-student-portfolio",
     "iconKey": "github",
-    "external": true
-  },
-  {
-    "key": "portfolio",
-    "label": "Website",
-    "value": "a",
-    "href": "https://a",
-    "iconKey": "external",
     "external": true
   }
 ];
